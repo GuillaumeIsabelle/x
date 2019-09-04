@@ -26,7 +26,9 @@ post_date: 2019-09-04 17:01:42
 
 
 
+
 ## 190904
+
 
 |  Filtered     | Not filtered       |       |       |       |
 |  ---  |  ---  |  ---  |  ---  |  ---  |
@@ -46,6 +48,8 @@ post_date: 2019-09-04 17:01:42
 
 ![](./img/insight-substance-alchemist__has_multiangle_material_creation__190904.png)
 
+
 #### Hypothesis
+
 * --@STCHyp A Form of photogrammetric capture of the shading 
 * --@x 190904 Multiple photography of a surface as source inte substance alchemist - observe the result

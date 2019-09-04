@@ -24,3 +24,31 @@ post_date: 2019-09-04 17:01:42
 
 # Curve of the non-polarized image.
 ![](./s__n__curves.png)
+
+----
+# Table matrix for observations
+
+
+
+## 190904
+
+|  Filtered     | Not filtered       |       |       |       |
+|  ---  |  ---  |  ---  |  ---  |  ---  |
+|       |       |       |       |       |
+|   ![](./img/s__f__curves.png)    |  ![](./img/s__n__curves.png)       |       |       |       |
+|  ![](./img/s__f__rgb.png)     |   ![](./img/s__n__rgb.png)      |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+
+
+# related
+
+## Insights
+
+### Substance Alchemist has multi-angle material creation.
+
+![](./img/insight-substance-alchemist__has_multiangle_material_creation__190904.png)
+
+#### Hypothesis
+* --@STCHyp A Form of photogrammetric capture of the shading 

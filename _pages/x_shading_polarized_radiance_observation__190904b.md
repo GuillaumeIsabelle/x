@@ -17,3 +17,16 @@ post_date: 2019-09-04 18:08:22
 <!-- wp:paragraph -->
 <p><strong>Table</strong></p>
 <!-- /wp:paragraph -->
+
+
+## 190904
+
+
+|  Filtered     | Not filtered       |       |       |       |
+|  ---  |  ---  |  ---  |  ---  |  ---  |
+|       |       |       |       |       |
+|   ![](./img/s__f__curves.png)    |  ![](./img/s__n__curves.png)       |       |       |       |
+|  ![](./img/s__f__rgb.png)     |   ![](./img/s__n__rgb.png)      |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |
+|       |       |       |       |       |

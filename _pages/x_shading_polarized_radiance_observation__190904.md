@@ -18,12 +18,6 @@ post_date: 2019-09-04 17:01:42
 <p>@fns x_shading_polarized_radiance_observation__190904</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":241,"width":342,"height":512} -->
-<figure class="wp-block-image is-resized"><img src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/09/s__f__rgb-683x1024.png" alt="" class="wp-image-241" width="342" height="512"/></figure>
-<!-- /wp:image -->
-
-# Curve of the non-polarized image.
-![](./s__n__curves.png)
 
 ----
 # Table matrix for observations
@@ -52,3 +46,4 @@ post_date: 2019-09-04 17:01:42
 
 #### Hypothesis
 * --@STCHyp A Form of photogrammetric capture of the shading 
+* --@x 190904 Multiple photography of a surface as source inte substance alchemist - observe the result

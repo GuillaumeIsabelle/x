@@ -7,6 +7,7 @@ jobs:
     steps:
       - checkout
 
+      # --@STCGoal Automate stuff when you publish an element of your research.
       - run:
           name: Greeting
           command: echo Hello, world.

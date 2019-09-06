@@ -11,4 +11,10 @@ post_date: 2019-09-05 21:09:03
 ---
 <!-- wp:paragraph -->
 <p>A 3D Rendering process creating a drawing foundation for previsualizing the intentions to create.</p>
+<p></p>
 <!-- /wp:paragraph -->
+
+# From Code
+
+## previz-render-drawing__x1909052111
+![](./img/previz-render-drawing__x1909052111.png)

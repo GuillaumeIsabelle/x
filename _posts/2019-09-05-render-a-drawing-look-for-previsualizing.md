@@ -18,6 +18,10 @@ post_date: 2019-09-05 21:09:03
 <p> </p>
 <p><img src="https://github.com/GuillaumeIsabelle/x/raw/master/_posts/img/previz-render-drawing__x1909052111.png" /></p>
 
+<!-- wp:image {"id":268} -->
+<figure class="wp-block-image"><img src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/09/image.png" alt="" class="wp-image-268"/><figcaption>Sense of composition, contrast and possible components.</figcaption></figure>
+<!-- /wp:image -->
+
 <!-- wp:heading -->
 <h2>Header 2</h2>
 <!-- /wp:heading -->

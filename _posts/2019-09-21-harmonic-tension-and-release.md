@@ -31,4 +31,8 @@ The first is through dissonant (or unstable) chords, which in traditional harmon
 
 ![][1]</figure> <!-- /wp:image -->
 
+<!-- wp:audio {"id":276} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/09/1-Chopin-Nocturne-in-C-sharp-minor-tension-and-release.mp3" autoplay loop preload="auto"></audio><figcaption>Tension and release in Chopin’s Nocturne in C sharp minor, first 2 bars</figcaption></figure> 
+
+<!-- /wp:audio -->
+
  [1]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/1-Chopin-Nocturne-in-C-sharp-minor.png

@@ -35,4 +35,30 @@ The first is through dissonant (or unstable) chords, which in traditional harmon
 
 <!-- /wp:audio -->
 
+<!-- wp:audio {"id":280} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/09/2-Chopin-Nocturne-in-C-sharp-with-tension-reduced.mp3" loop></audio><figcaption>An alternative chord in Chopin’s Nocturne 
+
+**reduces** the tension and therefore its musical and emotional impact.</figcaption></figure> <!-- /wp:audio -->
+
+<!-- wp:image --><figure class="wp-block-image">
+
+![An alternative chord in Chopin's Nocturne reduces the tension and therefore its musical and emotional impact.][2]<figcaption>An alternative chord in Chopin’s Nocturne reduces the tension and therefore its musical and emotional impact.  
+</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:heading -->
+
+## Oh my god, Withney Houston, it is a TRS that create that emotion
+
+<!-- /wp:heading -->
+
+<!-- wp:image --><figure class="wp-block-image">
+
+![Whitney Houston's cover of Dolly Parton's 'I will always love you'
+][3]</figure> <!-- /wp:image -->
+
+<!-- wp:audio {"id":289} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/09/4-Whitney-Houston.mp3" loop preload="auto"></audio></figure> 
+
+<!-- /wp:audio -->
+
  [1]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/1-Chopin-Nocturne-in-C-sharp-minor.png
+ [2]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/2-Chopin-Nocturne-in-C-sharp-minor-alternative-chord-and-reduced-tension.png
+ [3]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/5-I-will-always-love-you.png

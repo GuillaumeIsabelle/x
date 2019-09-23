@@ -53,7 +53,7 @@ The first is through dissonant (or unstable) chords, which in traditional harmon
 <!-- wp:image --><figure class="wp-block-image">
 
 ![Whitney Houston's cover of Dolly Parton's 'I will always love you'
-][3]</figure> <!-- /wp:image -->
+][3]<figcaption>Speaking of dynamics, a moment of **silence** at just the right time can be incredibly effective at building anticipation. </figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:audio {"id":289} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/09/4-Whitney-Houston.mp3" loop preload="auto"></audio></figure> 
 

@@ -59,6 +59,23 @@ The first is through dissonant (or unstable) chords, which in traditional harmon
 
 <!-- /wp:audio -->
 
+<!-- wp:heading {"level":4} -->
+
+#### Repetition 
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+Let’s look at some examples in which a repeating rhythmic pattern (known as an *ostinato*) builds up a sense of anticipation. Such repetitions tend to get louder and build up even more intensity. 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image --><figure class="wp-block-image">
+
+![The rhythm from Holst's Mars][4]</figure> <!-- /wp:image -->
+
  [1]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/1-Chopin-Nocturne-in-C-sharp-minor.png
  [2]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/2-Chopin-Nocturne-in-C-sharp-minor-alternative-chord-and-reduced-tension.png
  [3]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/5-I-will-always-love-you.png
+ [4]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/6-Holst-Mars-rhythm.png

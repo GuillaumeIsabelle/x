@@ -75,7 +75,29 @@ Let’s look at some examples in which a repeating rhythmic pattern (known as an
 
 ![The rhythm from Holst's Mars][4]</figure> <!-- /wp:image -->
 
+<!-- wp:heading {"level":4} -->
+
+#### Accelerando
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+Another way that rhythm can produce tension is by getting faster, known in musical terms as “*accelerando*”. Like the crescendo, an accelerando typically means a rise in intensity.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image --><figure class="wp-block-image">
+
+![Grieg: In the Hall of the Mountain King theme
+][5]</figure> <!-- /wp:image -->
+
+<!-- wp:audio {"id":294} --><figure class="wp-block-audio"><audio controls src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/09/8-In-the-Hall-of-the-Mountain-King-Grieg-Theme.mp3" loop></audio></figure> 
+
+<!-- /wp:audio -->
+
  [1]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/1-Chopin-Nocturne-in-C-sharp-minor.png
  [2]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/2-Chopin-Nocturne-in-C-sharp-minor-alternative-chord-and-reduced-tension.png
  [3]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/5-I-will-always-love-you.png
  [4]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/6-Holst-Mars-rhythm.png
+ [5]: https://www.schoolofcomposition.com/wp-content/uploads/2019/01/8-Grieg-In-the-Hall-of-the-Mountain-King-theme.png

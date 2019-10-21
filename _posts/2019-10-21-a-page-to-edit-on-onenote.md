@@ -17,7 +17,7 @@ How does that works?
 
 <!-- wp:paragraph -->
 
-Not working yet...
+Not working yet... but Jetpack seems nice
 
 <!-- /wp:paragraph -->
 

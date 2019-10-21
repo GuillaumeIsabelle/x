@@ -21,8 +21,7 @@ Not working yet...
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image --><figure class="wp-block-image">
+<!-- wp:image {"id":331} --><figure class="wp-block-image">
 
-![][1]<figcaption>Conf</figcaption></figure> <!-- /wp:image -->
-
- [1]: blob:http://guillaumeisabelle.com/b0696a43-e202-4828-b0de-6deb2fa0d31b
+<img src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/10/image-1-1024x777.png" alt="" class="wp-image-331" /><figcaption>Conf API  
+</figcaption></figure> <!-- /wp:image -->

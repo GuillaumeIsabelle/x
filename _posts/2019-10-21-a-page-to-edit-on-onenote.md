@@ -20,3 +20,9 @@ How does that works?
 Not working yet...
 
 <!-- /wp:paragraph -->
+
+<!-- wp:image --><figure class="wp-block-image">
+
+![][1]<figcaption>Conf</figcaption></figure> <!-- /wp:image -->
+
+ [1]: blob:http://guillaumeisabelle.com/b0696a43-e202-4828-b0de-6deb2fa0d31b

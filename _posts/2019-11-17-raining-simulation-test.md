@@ -17,13 +17,7 @@ post_date: 2019-11-17 13:40:38
 
 <div class="wp-block-group">
   <div class="wp-block-group__inner-container">
-    <!-- wp:paragraph -->
-    
-    <p>
-      x__rain.latest
-    </p>
-    
-    <!-- /wp:paragraph -->
+    <!-- wp:block {"ref":357} /-->
     
     <!-- wp:image {"id":355,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
     
@@ -33,8 +27,49 @@ post_date: 2019-11-17 13:40:38
 
 <!-- /wp:group -->
 
+<!-- wp:heading {"level":3} -->
+
+### Evaluation/Analysis/Plan/Feedback
+
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+
+#### Observation, analysis and evaluation
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   Great drop on the middle end.
+*   Splash on left interesting, might be too high
+*   Splash in general good
+*   Dropping, acceptable
+*   Center 50%, acceptable
+*   Side Sliding too close to camera and looks weard
+
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+
+#### Correction
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   CHG Frame to 30mm (side slide are probably just too close to camera to look good
+
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+
+#### Feedback 
+
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 
-
+Show to someone and get evaluated before 19-11-23
 
 <!-- /wp:paragraph -->

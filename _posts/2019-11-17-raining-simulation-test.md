@@ -9,8 +9,32 @@ permalink: >
 published: true
 post_date: 2019-11-17 13:40:38
 ---
-<!-- wp:image {"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+<!-- wp:image {"id":351,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
 
-![][1]</figure> <!-- /wp:image -->
+<img src="https://i2.wp.com/guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/11/image-scaled.png?fit=640%2C338" alt="" class="wp-image-351" /></figure> <!-- /wp:image -->
 
- [1]: blob:http://guillaumeisabelle.com/4334663b-c16f-4c5f-b227-806c9f5d7745
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:paragraph -->
+    
+    <p>
+      x__rain.latest
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:image {"id":355,"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+    
+    <img src="https://i2.wp.com/guillaumeisabelle.com/x/wp-content/uploads/sites/2/2019/11/image-1-scaled.png?fit=640%2C338" alt="" class="wp-image-355" /></figure> <!-- /wp:image -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->

@@ -14,3 +14,17 @@ post_date: 2019-12-14 12:56:28
 Elle est le condensé qui sera utilisé ultérieurement, le résultat d'une étape de lecture - Après, on ne devrait pas revenir à lire la source puisque la synthèse contient tout ce dont il est nécessaire à la rédaction.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Contenu relatif
+
+<!-- /wp:heading -->
+
+<!-- wp:related-post-thumbnails/rpt-block {"mainTitle":"Relatif","postNumber":"4"} /-->

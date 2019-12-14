@@ -14,3 +14,40 @@ post_date: 2019-12-14 12:53:14
 uh?
 
 <!-- /wp:paragraph -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Définition
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      <strong>Connaissance: </strong>
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        Le fait ou la manière de connaître.
+      </li>
+      <li>
+        Avoir connaissance de connaître, savoir.
+      </li>
+    </ul>
+    
+    <!-- /wp:list -->
+  </div>
+</div>
+
+<!-- /wp:group -->

@@ -66,4 +66,4 @@ uh?
 
 <!-- /wp:separator -->
 
-<!-- wp:related-post-thumbnails/rpt-block {"mainTitle":"Relatif à la recherche"} /-->
+<!-- wp:related-post-thumbnails/rpt-block {"mainTitle":"Relatif à la recherche","postSort":"latest"} /-->

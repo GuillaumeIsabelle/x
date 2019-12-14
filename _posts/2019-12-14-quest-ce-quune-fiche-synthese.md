@@ -9,3 +9,8 @@ permalink: >
 published: true
 post_date: 2019-12-14 12:56:28
 ---
+<!-- wp:paragraph -->
+
+Elle est le condensé qui sera utilisé ultérieurement, le résultat d'une étape de lecture - Après, on ne devrait pas revenir à lire la source puisque la synthèse contient tout ce dont il est nécessaire à la rédaction.
+
+<!-- /wp:paragraph -->

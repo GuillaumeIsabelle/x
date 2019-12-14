@@ -60,8 +60,10 @@ uh?
 
 <!-- wp:block {"ref":368} /-->
 
-<!-- wp:paragraph -->
+<!-- wp:separator -->
 
+<hr class="wp-block-separator" />
 
+<!-- /wp:separator -->
 
-<!-- /wp:paragraph -->
+<!-- wp:related-post-thumbnails/rpt-block {"mainTitle":"Relatif à la recherche"} /-->

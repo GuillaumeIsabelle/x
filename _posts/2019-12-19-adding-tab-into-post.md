@@ -14,3 +14,21 @@ post_date: 2019-12-19 14:23:48
 ## That I can add Tabs into a Post
 
 <!-- /wp:heading -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Here is the first try
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+[rtbs name="mytabsetno1"] 
+
+<!-- /wp:paragraph -->

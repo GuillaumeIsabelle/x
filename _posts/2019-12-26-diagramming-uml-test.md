@@ -23,7 +23,7 @@ Bellow is using a normal paragraph
 
 <!-- wp:paragraph -->
 
-This is the diagram :  
+  
 [plantuml]  
 GI --> WPApp : Capture source to web  
 GI --> Zotero : Capture source to ref  

@@ -21,16 +21,9 @@ Bellow is using a normal paragraph
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+<!-- wp:shortcode --> [plantuml] GI --> WPApp : Capture source to web GI -->; Zotero : Capture source to ref WPApp --> Zotero : Reference the captured ref [/plantuml] 
 
-This is the diagram :  
-[plantuml]  
-GI --> WPApp : Capture source to web  
-GI --> Zotero : Capture source to ref  
-WPApp --> Zotero : Reference the captured ref  
-[/plantuml]
-
-<!-- /wp:paragraph -->
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 

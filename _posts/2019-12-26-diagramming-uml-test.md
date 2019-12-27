@@ -15,14 +15,6 @@ Testing to integrate a diagram
 
 <!-- /wp:paragraph -->
 
-<!-- wp:code -->
+<!-- wp:shortcode --> [plantuml] Alice -> Bob: Authentication Request Bob --> Alice: Authentication Response Alice -> Bob: Another authentication Request Alice <-- Bob: another authentication Response [/plantuml] 
 
-<pre class="wp-block-code"><code>[plantuml]
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice &lt;-- Bob: another authentication Response
-[/plantuml]</code></pre>
-
-<!-- /wp:code -->
+<!-- /wp:shortcode -->

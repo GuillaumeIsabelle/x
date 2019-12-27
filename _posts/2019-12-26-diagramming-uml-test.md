@@ -15,6 +15,48 @@ Testing to integrate a diagram
 
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+
+Bellow is using a normal paragraph
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+This is the diagram :  
+[plantuml]  
+GI --> WPApp : Capture source to web  
+GI --> Zotero : Capture source to ref  
+WPApp --> Zotero : Reference the captured ref  
+[/plantuml]
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+  
+
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+Bellow is using a Shortcode...
+
+<!-- /wp:paragraph -->
+
 <!-- wp:shortcode --> [plantuml] Alice -> Bob: Authentication Request Bob --> Alice: Authentication Response Alice -> Bob: Another authentication Request Alice <-- Bob: another authentication Response [/plantuml] 
 
 <!-- /wp:shortcode -->

@@ -24,3 +24,9 @@ First lets generate an image that I want to modify online...
 <!-- wp:image {"id":449,"width":383,"height":405,"sizeSlug":"large","className":"is-style-circle-mask"} --><figure class="wp-block-image size-large is-resized is-style-circle-mask">
 
 <img src="http://guillaumeisabelle.com/x/wp-content/uploads/sites/2/2020/01/image-3.png" alt="" class="wp-image-449" width="383" height="405" /><figcaption>Image to edit</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->

@@ -28,3 +28,19 @@ Bellow, I will try in text with a Tag . [zotpressInText tag="ref20030316"]
 did that worked ? . zotpressInText tag="ref20030316"
 
 <!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+Author...
+
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode --> [zotpress authors="Wang"] 
+
+<!-- /wp:shortcode -->

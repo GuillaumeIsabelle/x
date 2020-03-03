@@ -37,10 +37,10 @@ did that worked ? . zotpressInText tag="ref20030316"
 
 <!-- wp:paragraph -->
 
-Author...
+Author Xin Wang -- zotpress authors="Xin Wang"
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [zotpress authors="Wang"] 
+<!-- wp:shortcode --> [zotpress authors="Xin Wang"] 
 
 <!-- /wp:shortcode -->
